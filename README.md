@@ -12,10 +12,10 @@ The dataset used in this project is the Cyclistic bike trip data for the last 12
 ### Analysis
 The analysis performed in this project includes:
 
-Comparing the ride length for members and casual riders over a week
-Comparing the count of bike trips for members and casual riders over a week
-Comparing the count of bike trips for members and casual riders over a day
-Comparing the bike preference for members and casual riders
+- Comparing the ride length for members and casual riders over a week
+- Comparing the count of bike trips for members and casual riders over a week
+- Comparing the count of bike trips for members and casual riders over a day
+- Comparing the bike preference for members and casual riders
 
 ### Tools
 The tools used in this project are:
