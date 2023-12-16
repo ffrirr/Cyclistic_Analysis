@@ -20,5 +20,5 @@ Comparing the bike preference for members and casual riders
 ### Tools
 The tools used in this project are:
 
-Python for data cleaning, transformation, and analysis
-Tableau for data visualization
+- Python for data cleaning, transformation, and analysis
+- Tableau for data visualization
